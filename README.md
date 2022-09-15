@@ -184,6 +184,12 @@ Stage 1 - Linkedin Posts
 - How to tag people
 - How to use HashTags
 - Understand 6 types of LinkedIn posts and how to post it.
+- Linkedin Post Type 1 - Reshare good Post
+- Linkedin Post Type 2 - Congratulate people
+- Linkedin Post Type 3 - any Good Documents Post
+- Linkedin Post Type 4 - 
+- Linkedin Post Type 5
+- Linkedin Post Type 6 - Blog
 - Tag cloudnloud community wherever is possible.
 - Daily need to be active in linkedin from any learned linkedin post types
 - Tag cloudnloud community where ever is possible
@@ -193,6 +199,51 @@ Stage 1 - Linkedin Posts
 - Write about any technical related
 - Write about any social advice related
 
+
+Stage 1 - Linkedin Posts - Stages
+-----------
+
+# Linkedin Post Type 1
+
+- **just reshare from some big followers person post with above style**
+
+- Note 1: in this type of post you keep tag community
+- Note 2: hash tags are important
+
+# Linkedin Post Type 2
+
+keep congratulate their job change,their achievements
+
+- Note 1: in this type of post you dont  tag community
+- Note 2: hash tags not needed here
+
+# Linkedin Post Type 3
+
+if you see any documents is good.Then write some 2 lines and thanks the original author and share the files.
+
+- Note 1: in this type of post you keep tag community such that ...key cloudnloud tech community make use of it kinda trend
+- Note 2: hash tags are important
+
+# Linkedin Post Type 4
+
+if you come across any good blog from any big people,then take that url and post it in your linkedin and thank them.
+
+- Note 1: in this type of post you shouldnt tag community
+- Note 2: hash tags are important
+
+# Linkedin Post Type 5
+
+
+if you see any linkedin existing posts happening many people discussing something...u also start participate and write 2 or 3 lines.
+
+- Note 1: while participating in comments section ,,,,only tag community if you think it is going to add value...so in one effort you are bringing many channel to look at you.
+
+# Linkedin Post Type 6
+
+Write a blog and publish it.take that url and create a post with that url
+
+- Note 1: in this type of post you keep tag Cloudnloud Tech Community and tag leaders
+- Note 2: hash tags are important
 
 
 Stage 1 - HASHNODE- Blogging
