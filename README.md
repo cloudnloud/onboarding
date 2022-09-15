@@ -6,7 +6,7 @@ Table of contents
 <!--ts-->
    * [Introduction](#introduction)
    * [About Cloudnloud Tech Community](#about-Cloudnloud-Tech-Community)
-      * [Why we are gathered ?](#Why-we-are-gathered-?)
+      * [Why we are gathered ?](#why-we-are-gathered-?)
       * [Why projection is needed](#Why-projection-is-needed)
       * [What is the advantages if you project yourself?](#What-is-the-advantages-if-you-project-yourself)
       * [What is the advantages’ if you write a blogging?](#What-is-the-advantages-if-you-write-a-blogging)
