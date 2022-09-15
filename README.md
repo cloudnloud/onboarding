@@ -15,8 +15,8 @@ Table of contents
       * [What is the normal IT path](#What-is-the-normal-IT-path)
       * [What if you create visibility and via visibility what you can get easily](#What-if-you-create-visibility-and-via-visibility-what-you-can-get-easily)
 	  * [Along with your growth what is the contribution you need to give back to the society via Cloudnloud Tech Community](#Along-with-your-growth-what-is-the-contribution-you-need-to-give-back-to-the-society-via-Cloudnloud-Tech-Community)
-   * [Cloudnloud Tech Community - Stages](#Cloudnloud-Tech-Community-Stages)
-   * [Career Discussion – One on one – With Vijay](#Career-Discussion–One-on-one–With-Vijay)
+   * [Cloudnloud Tech Community Stages](#cloudnloud-tech-community-stages)
+   * [Career Discussion One-on-one–With Vijay](#career-discussion–One-on-one–With-Vijay)
    * [Pre-requisites](#pre-requisites)
       * [Environment Needed](#Why-we-are-gathered)
       * [Login – Need to be created](#Login–Need-to-be-created)
@@ -96,12 +96,12 @@ Along with your growth what is the contribution you need to give back to the soc
 
 XXXXXXXXXXXXXXXXXXXXXXX
 
-Cloudnloud Tech Community - Stages
+Cloudnloud Tech Community Stages
 =====
 XXXXXXXXXXXXXXXXXXXXXXX
 
 
-Career Discussion – One on one – With Vijay
+Career Discussion One-on-one–With Vijay
 =====
 XXXXXXXXXXXXXXXXXXXXXXX
 
