@@ -148,6 +148,8 @@ Login Need to be created
 - create canva.com login using your mail id
 - Create Hashnode.com login, once you created your hashnode id , whatsapp your hashnode id details to cloudnloud tech community [ https://wa.me/message/2EM3VEAMEMVHP1 ] . Cloudnloud Team  will give the access to cloudnloud tech community blog forum
 
+- create your github login and send your github id to https://wa.me/message/2EM3VEAMEMVHP1 cloudnloud tech community team.Cloudnloud Team  will give the access to internal git repository.
+
 
 - Note : After understand your career path, then learn below and project yourself. Cloudnloud Tech Commnity will keep support you
 
