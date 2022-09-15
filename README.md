@@ -24,6 +24,7 @@ Table of contents
       * [Make your Linkedin Ready](#Make-your-Linkedin-Ready)
    * [Stage 1 – Create Your Monopoly Visibility](#Stage-1–Create-Your-Monopoly-Visibility)
       * [Stage 1 - Linkedin Posts](#Stage-1-Linkedin-Posts)
+	  * [Stage 1 - Linkedin Posts - Stages](#Stage-1-Linkedin-Posts-Stages)
       * [Stage 1 - HASHNODE- Blogging](#Stage-1-HASHNODE-Blogging)
       * [Stage 1 - Linkedin Article](#Stage-1-Linkedin-Article)
    * [Stage 2 – You reach Worldwide](#Stage-2–You-reach-Worldwide)
