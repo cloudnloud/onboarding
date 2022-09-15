@@ -98,39 +98,76 @@ XXXXXXXXXXXXXXXXXXXXXXX
 
 Cloudnloud Tech Community Stages
 =====
-XXXXXXXXXXXXXXXXXXXXXXX
+- Stage 1 - make you to comfort and confident on documentation [blog,linkedin post,github...etc] & presentation on stage.
+- Stage 2 - give presentation in technical meetup's [ slowly you become leader here ]
+- stage 3 - create courses and start revenue and share some of your wish to these children.
+- Stage 4 - Consulting
+- Stage 5 - Consulting
+- Stage 6 - Solutions
+
+Note : 
+
+- When you complete Stage 1 and Stage 2 you will gather excellent visibility and high compensation. 
+- Stage 3 onwards, as you start earning additional income you are bound to contribute 10%[From additional income]to the cancer children community 
+
 
 
 Career Discussion With Vijay
 =====
-XXXXXXXXXXXXXXXXXXXXXXX
+- You list your current skill
+- You list what you want to be in next 10 years
+- Arrange call with Vijayabalan Cloudnloud and understand what you want in to the project ?
+
 
 
 Pre-requisites
 =====
-XXXXXXXXXXXXXXXXXXXXXXX
+
 
 
 Environment Needed
 -----------
 
-XXXXXXXXXXXXXXXXXXXXXXX
+- Must to have personal laptop
+- fast fiber internet
+- noise free headset
+- external monitor and connect with your personal laptop
+- word, excel, ppt knowledge
+- github.com knowledge
+
 
 Login Need to be created
 -----------
 
-XXXXXXXXXXXXXXXXXXXXXXX
+- What is your LinkedIn username and password?
+- create canva.com login using your mail id
+- Create Hashnode.com login, once you created your hashnode id , whatsapp your hashnode id details to cloudnloud tech community [ https://wa.me/message/2EM3VEAMEMVHP1 ] . Cloudnloud Team  will give the access to cloudnloud tech community blog forum
+
+
+- Note : After understand your career path, then learn below and project yourself. Cloudnloud Tech Commnity will keep support you
+
 
 
 Canva – Poster Creation
 -----------
 
-XXXXXXXXXXXXXXXXXXXXXXX
+- Always before use your pics in Canva first remove the background in your pic using remove.bg website.
+- create the hashnode.com blog tittle poster
+- create LinkedIn poster using Canva
+- create YouTube poster using Canva
+- create twitter poster using Canva
+
 
 Make your Linkedin Ready
 -----------
 
-XXXXXXXXXXXXXXXXXXXXXXX
+- Profile URL shortening
+- Creator Mode enabling
+- Click creator mode and add 5 important hashtags in your profile
+- Integrate cloudnloud twitter into your LinkedIn
+- Once integrated cloudnloud twitter ..go to your LinkedIn home and change the post setting visibility that LinkedIn + twitter
+- After creator mode enabled, in your profile add this url https://www.youtube.com/c/CloudnLoud?sub_confirmation=1
+
 
 
 
@@ -142,42 +179,78 @@ XXXXXXXXXXXXXXXXXXXXXXX
 Stage 1 - Linkedin Posts
 -----------
 
-XXXXXXXXXXXXXXXXXXXXXXX
+- How to create linkedin posts
+- How to write blog in blog.cloudnloud.com
+- How to tag people
+- How to use HashTags
+- Understand 6 types of LinkedIn posts and how to post it.
+- Tag cloudnloud community wherever is possible.
+- Daily need to be active in linkedin from any learned linkedin post types
+- Tag cloudnloud community where ever is possible
+- refer our community and keep invite your circle
+- How to handle the linkedin after we published any posts [need to reply all people comments asap to make sure the linkedin is also boosting the posts].
+- Write about general advice
+- Write about any technical related
+- Write about any social advice related
+
 
 
 Stage 1 - HASHNODE- Blogging
 -----------
 
-XXXXXXXXXXXXXXXXXXXXXXX
+- Make sure you logged in hashnode using the right credentials
+- understand hashnode tittle poster size requirements.
+- in hashnode blog how to write
+- in hashnode blog inside any size of pics can be inserted.
+- in hashnode blog check spelling, grammer and rephrase the words using https://www.reverso.net/spell-checker/english-spelling-grammar/
+- check Plagiarism using https://www.duplichecker.com/
+
 
 
 Stage 1 - Linkedin Article
 -----------
 
-XXXXXXXXXXXXXXXXXXXXXXX
+- How to write article in LinkedIn?
+
 
 
 Stage 2 – You reach Worldwide
 =====
-XXXXXXXXXXXXXXXXXXXXXXX
+
 
 
 Stage 2 – Video Creation
 -----------
 
-XXXXXXXXXXXXXXXXXXXXXXX
+- Is snagit software installed?
+- How to create Video
+- How to submit the video after its created?
+- Before start video live stream what need to be done ?
+- After live stream what need to be done?
+- Create video - minimum 8 to 9 video ready
+- Create a note pad with what is the main tittle - each video tittle - each video what you covered
+- Cloudnloud Tech Community will promote you with your upcoming series to world wide
+- then we will live telecast each video.
+- you write about your live stream in your LinkedIn
+- post each video live stream you also create a blog for that video and attach your video in the hash node.
+- you write about your live stream [post stage of live stream] in your LinkedIn
+- After 1 or 2 days you even create same blog same poster same content in LinkedIn as an article,dev.to,opensource.com,techgig.com etc....
 
 
 Stage 2 – Meetup - Online
 -----------
 
-XXXXXXXXXXXXXXXXXXXXXXX
+- How to do online meetup?
+- Before meetup and after meetup how to project yourself ?
+
 
 
 Stage 2 – Meetup - Physical
 -----------
 
-XXXXXXXXXXXXXXXXXXXXXXX
+- How to do Physical meetup?
+- Before meetup and after meetup how to project yourself ?
+
 
 
 Stage 3 – Ambassador Programs and International Conferences
