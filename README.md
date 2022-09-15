@@ -18,7 +18,7 @@ Table of contents
    * [Cloudnloud Tech Community Stages](#cloudnloud-tech-community-stages)
    * [Career Discussion With Vijay](#Career-Discussion-With-Vijay)
    * [Pre-requisites](#pre-requisites)
-      * [Environment Needed](#Why-we-are-gathered)
+      * [Environment Needed](#Environment-Needed)
       * [Login – Need to be created](#Login–Need-to-be-created)
       * [Canva – Poster Creation](#Canva–Poster-Creation)
       * [Make your Linkedin Ready](#Make-your-Linkedin-Ready)
