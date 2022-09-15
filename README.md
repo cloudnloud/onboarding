@@ -137,6 +137,8 @@ Environment Needed
 - external monitor and connect with your personal laptop
 - word, excel, ppt knowledge
 - github.com knowledge
+- Download anydesk remote utility [https://anydesk.com/en/downloads/thank-you?dv=win_exe].
+- Open anydesk.exe and tell 9 digit number incase any issues to cloudnloud team
 
 
 Login Need to be created
