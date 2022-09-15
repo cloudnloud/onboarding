@@ -19,7 +19,7 @@ Table of contents
    * [Career Discussion With Vijay](#Career-Discussion-With-Vijay)
    * [Pre-requisites](#pre-requisites)
       * [Environment Needed](#Environment-Needed)
-      * [Login – Need to be created](#Login–Need-to-be-created)
+      * [Login–Need to be created](#Login–Need-to-be-created)
       * [Canva – Poster Creation](#Canva–Poster-Creation)
       * [Make your Linkedin Ready](#Make-your-Linkedin-Ready)
    * [Stage 1 – Create Your Monopoly Visibility](#Stage-1–Create-Your-Monopoly-Visibility)
@@ -117,7 +117,7 @@ Environment Needed
 XXXXXXXXXXXXXXXXXXXXXXX
 
 
-Login – Need to be created
+Login–Need to be created
 -----------
 
 XXXXXXXXXXXXXXXXXXXXXXX
