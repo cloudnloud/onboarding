@@ -16,7 +16,7 @@ Table of contents
       * [What if you create visibility and via visibility what you can get easily](#What-if-you-create-visibility-and-via-visibility-what-you-can-get-easily)
 	  * [Along with your growth what is the contribution you need to give back to the society via Cloudnloud Tech Community](#Along-with-your-growth-what-is-the-contribution-you-need-to-give-back-to-the-society-via-Cloudnloud-Tech-Community)
    * [Cloudnloud Tech Community Stages](#cloudnloud-tech-community-stages)
-   * [Career Discussion One-on-one–With Vijay](#career-discussion–One-on-one–With-Vijay)
+   * [Career Discussion With Vijay](#career-discussion–With-Vijay)
    * [Pre-requisites](#pre-requisites)
       * [Environment Needed](#Why-we-are-gathered)
       * [Login – Need to be created](#Login–Need-to-be-created)
@@ -101,7 +101,7 @@ Cloudnloud Tech Community Stages
 XXXXXXXXXXXXXXXXXXXXXXX
 
 
-Career Discussion One-on-one–With Vijay
+Career Discussion With Vijay
 =====
 XXXXXXXXXXXXXXXXXXXXXXX
 
