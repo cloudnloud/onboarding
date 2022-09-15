@@ -213,45 +213,57 @@ Stage 1 - Linkedin Posts - Stages
 
 # Linkedin Post Type 1
 
+- you are learning.While learning itself start project yourself what you learned.
+
+- https://www.linkedin.com/feed/update/urn:li:activity:6964487699898462208/
+- https://www.linkedin.com/feed/update/urn:li:activity:6963448806822563841/
+
+# Linkedin Post Type 2
+
+
 - **just reshare from some big followers person post with above style**
 
 - Note 1: in this type of post you keep tag community
 - Note 2: hash tags are important
 
-# Linkedin Post Type 2
+# Linkedin Post Type 3
 
 - keep congratulate their job change,their achievements
 
 - Note 1: in this type of post you dont  tag community
 - Note 2: hash tags not needed here
 
-# Linkedin Post Type 3
+# Linkedin Post Type 4
 
 - if you see any documents is good.Then write some 2 lines and thanks the original author and share the files.
 
 - Note 1: in this type of post you keep tag community such that ...key cloudnloud tech community make use of it kinda trend
 - Note 2: hash tags are important
 
-# Linkedin Post Type 4
+# Linkedin Post Type 5
 
 - if you come across any good blog from any big people,then take that url and post it in your linkedin and thank them.
 
 - Note 1: in this type of post you shouldnt tag community
 - Note 2: hash tags are important
 
-# Linkedin Post Type 5
+# Linkedin Post Type 6
 
 
 - if you see any linkedin existing posts happening many people discussing something...u also start participate and write 2 or 3 lines.
 
 - Note 1: while participating in comments section.only tag community if you think it is going to add value...so in one effort you are bringing many channel to look at you.
 
-# Linkedin Post Type 6
+- example - https://www.linkedin.com/feed/update/urn:li:activity:6975771679830523904/
+
+# Linkedin Post Type 7
 
 - Write a blog and publish it.take that url and create a post with that url
 
 - Note 1: in this type of post you keep tag Cloudnloud Tech Community and tag leaders
 - Note 2: hash tags are important
+
+- example - https://www.linkedin.com/feed/update/urn:li:activity:6975004440235814912/
 
 
 Stage 1 - HASHNODE- Blogging
