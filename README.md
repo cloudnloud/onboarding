@@ -6,7 +6,7 @@ Table of contents
 <!--ts-->
    * [Introduction](#introduction)
    * [About Cloudnloud Tech Community](#about-Cloudnloud-Tech-Community)
-      * [Why we are gathered](#Why-we-are-gathered)
+      * [Why we are gathered ?](#Why-we-are-gathered)
       * [Why projection is needed](#Why-projection-is-needed)
       * [What is the advantages if you project yourself?](#What-is-the-advantages-if-you-project-yourself)
       * [What is the advantages’ if you write a blogging?](#What-is-the-advantages-if-you-write-a-blogging)
@@ -39,32 +39,16 @@ What is the normal IT path?
 What if you create visibility and via visibility what you can get easily?
 Along with your growth what is the contribution you need to give back to the society via Cloudnloud Tech Community?
 
-Installation
+Introduction
 ============
 
-Linux (manual installation)
-```bash
-$ wget https://raw.githubusercontent.com/ekalinin/github-markdown-toc/master/gh-md-toc
-$ chmod a+x gh-md-toc
-```
 
-MacOS (manual installation)
-```bash
-$ curl https://raw.githubusercontent.com/ekalinin/github-markdown-toc/master/gh-md-toc -o gh-md-toc
-$ chmod a+x gh-md-toc
-```
 
-Linux or MacOS (using [Basher](https://github.com/basherpm/basher))
-```bash
-$ basher install ekalinin/github-markdown-toc
-# `gh-md-toc` will automatically be available in the PATH
-```
-
-Usage
+About Cloudnloud Tech Community
 =====
 
 
-STDIN
+Why we are gathered ?
 -----
 
 Here's an example of TOC creating for markdown from STDIN:
