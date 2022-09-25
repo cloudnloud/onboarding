@@ -13,7 +13,7 @@ Table of contents
       * [Online Streaming and Advantages](#Online-Streaming-and-Advantages)
       * [In person Meetups and Advantages](#In-person-Meetups-and-Advantages)
       * [IT Pathway](#IT-Pathway)
-      * [LEARN + EARN & CONTRIBUTE for SOCIAL CAUSE](#LEARN-+-EARN-&-CONTRIBUTE-for-SOCIAL-CAUSE)	  
+      * [LEARN EARN and CONTRIBUTE for SOCIAL CAUSE](#LEARN-EARN-and-CONTRIBUTE-for-SOCIAL-CAUSE)	  
    * [Cloudnloud Tech Community Stages](#cloudnloud-tech-community-stages)
    * [Career Discussion With Vijay](#Career-Discussion-With-Vijay)
    * [Pre-requisites](#pre-requisites)
