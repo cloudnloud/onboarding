@@ -6,15 +6,14 @@ Table of contents
 <!--ts-->
    * [Introduction](#introduction)
    * [About Cloudnloud Tech Community](#about-Cloudnloud-Tech-Community)
-      * [Why we are gathered](#why-we-are-gathered)
-      * [Why projection is needed](#Why-projection-is-needed)
-      * [What is the advantages if you project yourself](#What-is-the-advantages-if-you-project-yourself)
-      * [What is the advantages’ if you write a blogging](#What-is-the-advantages-if-you-write-a-blogging)
-      * [What is the advantage if you present via live stream across world](#What-is-the-advantage-if-you-present-via-live-stream-across-world)
-      * [What is the advantage if you present physical technical meetups](#What-is-the-advantage-if-you-present-physical-technical-meetups)
-      * [What is the normal IT path](#What-is-the-normal-IT-path)
-      * [What if you create visibility and via visibility what you can get easily](#What-if-you-create-visibility-and-via-visibility-what-you-can-get-easily)
-	  * [Along with your growth what is the contribution you need to give back to the society via Cloudnloud Tech Community](#Along-with-your-growth-what-is-the-contribution-you-need-to-give-back-to-the-society-via-Cloudnloud-Tech-Community)
+      * [Vision Statement](#Vision-Statement)
+      * [Community and it’s GOAL](#Community-and-it’s-GOAL)
+      * [Visibility and Advantages](#Visibility-and-Advantages)
+      * [Blogging and Advantages](#Blogging-and-Advantages)
+      * [Online Streaming and Advantages](#Online-Streaming-and-Advantages)
+      * [In person Meetup’s and Advantages](#In-person-Meetup’s-and-Advantages)
+      * [IT Pathway](#IT-Pathway)
+      * [LEARN + EARN & CONTRIBUTE for SOCIAL CAUSE](#LEARN-+-EARN-&-CONTRIBUTE-for-SOCIAL-CAUSE)	  
    * [Cloudnloud Tech Community Stages](#cloudnloud-tech-community-stages)
    * [Career Discussion With Vijay](#Career-Discussion-With-Vijay)
    * [Pre-requisites](#pre-requisites)
@@ -24,7 +23,6 @@ Table of contents
       * [Make your Linkedin Ready](#Make-your-Linkedin-Ready)
    * [Stage 1 – Create Your Monopoly Visibility](#Stage-1–Create-Your-Monopoly-Visibility)
       * [Stage 1 - Linkedin Posts](#Stage-1-Linkedin-Posts)
-	  * [Stage 1 - Linkedin Posts - Stages](#Stage-1-Linkedin-Posts-Stages)
       * [Stage 1 - HASHNODE- Blogging](#Stage-1-HASHNODE-Blogging)
       * [Stage 1 - Linkedin Article](#Stage-1-Linkedin-Article)
    * [Stage 2 – You reach Worldwide](#Stage-2–You-reach-Worldwide)
@@ -191,13 +189,7 @@ Stage 1 - Linkedin Posts
 - How to write blog in blog.cloudnloud.com
 - How to tag people
 - How to use HashTags
-- Understand 6 types of LinkedIn posts and how to post it.
-- Linkedin Post Type 1 - Reshare good Post
-- Linkedin Post Type 2 - Congratulate people
-- Linkedin Post Type 3 - any Good Documents Post
-- Linkedin Post Type 4 - 
-- Linkedin Post Type 5
-- Linkedin Post Type 6 - Blog
+- Understand 7linux types of LinkedIn posts and how to post it.
 - Tag cloudnloud community wherever is possible.
 - Daily need to be active in linkedin from any learned linkedin post types
 - Tag cloudnloud community where ever is possible
