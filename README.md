@@ -45,67 +45,69 @@ Cloudnloud Tech Community was incubated to share technology and extend hands for
 
 Officially registered as Pvt Ltd on Jan-2015, the community runs with a motto to help cancer children from the revenue generated from the events/courses/programs organized. Today Cloudnloud is marching with pride in being a torch in the lives of 7000 plus cancer children survivors
 
+
 Watch Video - [About Cloudnloud Tech Community](https://www.youtube.com/watch?v=4aogkm5jIO0)
 
 Vision Statement
 =====
 
+To grow as a strong Technical Community and connect to the Social Cause
+LEARN + EARN & CONTRIBUTE
 
-XXXXXXXXXXXXXXXXXXXXXXX
 
 Community and it’s GOAL
 =====
 
 
-XXXXXXXXXXXXXXXXXXXXXXX
+Tech Goal: A knowledge and hands on rich Technology Team and Individuals who will convert their Learning into Additional Earnings (CloudnLoud will mentor towards this)
+Social Goal: Give Back(Not to the mentorship) to the Society(Child Cancer Survivors) through NGO. Contribute from the community activities to NGO(Not from the Salary)
+
 
 Visibility and Advantages
 =====
 
+Social and Network visibility is the most needed skill in this TECH ERA.
+Being active and contributing in the Social Professional Platforms provide great reach not just in followers count but visibility to Recruiters and Companies the skills you possess.
 
-XXXXXXXXXXXXXXXXXXXXXXX
 
 Blogging and Advantages
 =====
 
-
-XXXXXXXXXXXXXXXXXXXXXXX
+Blogging is the best way to learn any technology and improves one’s presentation skills in this demanding global market. It can reach to each and every tech driven communities for reference.
 
 Online Streaming and Advantages
 =====
 
-
-XXXXXXXXXXXXXXXXXXXXXXX
+Reach to the SKY. Once the right and powerful content is streamed online, the popularity and demand for the content and content creator goes beyond the usual tech community
 
 In person Meetup’s and Advantages
 =====
 
-
-XXXXXXXXXXXXXXXXXXXXXXX
+Networking is the most powerful tool for once growth and success. Inperson meetup’s provide an extraordinary platform to reach the decision makers in your dream company by exhibiting your skills in the forum.
 
 IT Pathway
 =====
 
-
-XXXXXXXXXXXXXXXXXXXXXXX
+Every GOAL needs an ROADMAP. IT is huge to be defined without a Roadmap and a right Mentor. Define your Goal, let the Mentor take you there.
 
 LEARN EARN and CONTRIBUTE for SOCIAL CAUSE
 =====
 
+Social Goal: Give Back(Not to the mentorship) to the Society(Child Cancer Survivors) through NGO. Contribute from the community activities to NGO(Not from the Salary)
 
-XXXXXXXXXXXXXXXXXXXXXXX
 
 **Watch Video** - [About Cloudnloud Tech Community](https://www.youtube.com/watch?v=4aogkm5jIO0)
 
 
 Cloudnloud Tech Community Stages
 =====
-- Stage 1 - make you to comfort and confident on documentation [blog,linkedin post,github...etc] & presentation on stage.
-- Stage 2 - give presentation in technical meetup's [ slowly you become leader here ]
-- stage 3 - create courses and start revenue and share some of your wish to these children.
-- Stage 4 - Consulting
-- Stage 5 - Consulting
-- Stage 6 - Solutions
+- Stage 1 - SHARPEN YOUR AXE: Exhibit your skills with confidence by documentation skills like blogging,linkedin post,github...etc & presentation on stage.
+- Stage 2 - SHARPEN YOUR SKILLS: Become a Technology Leader in your Skills by presenting in varies technical meetup's across globe
+- Stage 3 - CREATE THE FLOW: Monetize your skills by course creations is varies channels associated with CloudnLoud and repay to the society with best of your interest(10% to Child Cancer Survivors-NGO).
+- Stage 4 - Technology Consulting
+- Stage 5 - Solution Consulting
+- Stage 6 - Solutions and Mitigation Expert
+
 
 Note : 
 
@@ -118,14 +120,13 @@ Career Discussion With Vijay
 =====
 - You list your current skill
 - You list what you want to be in next 10 years
-- Arrange call with Vijayabalan Cloudnloud and understand what you want in to the project ?
+- Arrange call with **Vijayabalan Cloudnloud** and understand what you want in to the project ?
+
 
 **Watch Video** - [Career Discussion With Vijay](https://www.youtube.com/watch?v=4aogkm5jIO0)
 
 Pre-requisites
 =====
-
-
 
 Environment Needed
 -----------
@@ -158,7 +159,8 @@ Login to be created
 Poster Creation
 -----------
 
-- https://www.canva.com/design/DAFJqyV4ITs/m6eoor8YXFkgxiQP-UBfPQ/edit?utm_content=DAFJqyV4ITs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+- 
+
 - Always before use your pics in Canva first remove the background in your pic using remove.bg website.
 - create the hashnode.com blog tittle poster
 - create LinkedIn poster using Canva
