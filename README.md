@@ -202,6 +202,8 @@ Stage1 Linkedin Posts
 - Write about any technical related
 - Write about any social advice related
 
+**Watch Video** - [Stage1 Linkedin Posts](https://www.youtube.com/watch?v=4aogkm5jIO0)
+
 
 Stage 1 - Linkedin Posts - Stages
 -----------
@@ -213,6 +215,8 @@ Stage 1 - Linkedin Posts - Stages
 - https://www.linkedin.com/feed/update/urn:li:activity:6964487699898462208/
 - https://www.linkedin.com/feed/update/urn:li:activity:6963448806822563841/
 
+**Watch Video** - [Linkedin Post Type 1](https://www.youtube.com/watch?v=4aogkm5jIO0)
+
 # Linkedin Post Type 2
 
 
@@ -221,12 +225,16 @@ Stage 1 - Linkedin Posts - Stages
 - Note 1: in this type of post you keep tag community
 - Note 2: hash tags are important
 
+**Watch Video** - [Linkedin Post Type 2](https://www.youtube.com/watch?v=4aogkm5jIO0)
+
 # Linkedin Post Type 3
 
 - keep congratulate their job change,their achievements
 
 - Note 1: in this type of post you dont  tag community
 - Note 2: hash tags not needed here
+
+**Watch Video** - [Linkedin Post Type 3](https://www.youtube.com/watch?v=4aogkm5jIO0)
 
 # Linkedin Post Type 4
 
@@ -235,12 +243,16 @@ Stage 1 - Linkedin Posts - Stages
 - Note 1: in this type of post you keep tag community such that ...key cloudnloud tech community make use of it kinda trend
 - Note 2: hash tags are important
 
+**Watch Video** - [Linkedin Post Type 4](https://www.youtube.com/watch?v=4aogkm5jIO0)
+
 # Linkedin Post Type 5
 
 - if you come across any good blog from any big people,then take that url and post it in your linkedin and thank them.
 
 - Note 1: in this type of post you shouldnt tag community
 - Note 2: hash tags are important
+
+**Watch Video** - [Linkedin Post Type 5](https://www.youtube.com/watch?v=4aogkm5jIO0)
 
 # Linkedin Post Type 6
 
@@ -251,6 +263,8 @@ Stage 1 - Linkedin Posts - Stages
 
 - example - https://www.linkedin.com/posts/suniel-shetty_careerswitch-transitions-activity-6977949560518160384-lQsp/
 
+**Watch Video** - [Linkedin Post Type 6](https://www.youtube.com/watch?v=4aogkm5jIO0)
+
 # Linkedin Post Type 7
 
 - Write a blog and publish it.take that url and create a post with that url
@@ -259,6 +273,8 @@ Stage 1 - Linkedin Posts - Stages
 - Note 2: hash tags are important
 
 - example - https://www.linkedin.com/feed/update/urn:li:activity:6975004440235814912/
+
+**Watch Video** - [Linkedin Post Type 7](https://www.youtube.com/watch?v=4aogkm5jIO0)
 
 
 Stage1 HASHNODE Blogging
@@ -271,14 +287,14 @@ Stage1 HASHNODE Blogging
 - in hashnode blog check spelling, grammer and rephrase the words using https://www.reverso.net/spell-checker/english-spelling-grammar/
 - check Plagiarism using https://www.duplichecker.com/
 
-
+**Watch Video** - [Stage1 HASHNODE Blogging](https://www.youtube.com/watch?v=4aogkm5jIO0)
 
 Stage1 Linkedin Article
 -----------
 
 - How to write article in LinkedIn?
 
-
+**Watch Video** - [Stage1 Linkedin Article](https://www.youtube.com/watch?v=4aogkm5jIO0)
 
 Stage2 You reach Worldwide
 =====
@@ -302,6 +318,7 @@ Stage2 Video Creation
 - you write about your live stream [post stage of live stream] in your LinkedIn
 - After 1 or 2 days you even create same blog same poster same content in LinkedIn as an article,dev.to,opensource.com,techgig.com etc....
 
+**Watch Video** - [Stage2 Video Creation](https://www.youtube.com/watch?v=4aogkm5jIO0)
 
 Stage2 Meetup Online
 -----------
@@ -309,7 +326,7 @@ Stage2 Meetup Online
 - How to do online meetup?
 - Before meetup and after meetup how to project yourself ?
 
-
+**Watch Video** - [Stage2 Meetup Online](https://www.youtube.com/watch?v=4aogkm5jIO0)
 
 Stage2 Meetup Physical
 -----------
@@ -317,7 +334,7 @@ Stage2 Meetup Physical
 - How to do Physical meetup?
 - Before meetup and after meetup how to project yourself ?
 
-
+**Watch Video** - [Stage2 Meetup Physical](https://www.youtube.com/watch?v=4aogkm5jIO0)
 
 Stage3 Ambassador Programs and International Conferences
 =====
