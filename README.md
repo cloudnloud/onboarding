@@ -21,7 +21,7 @@ Table of contents
       * [Login to be created](#Login-to-be-created)
       * [Poster Creation](#Poster-Creation)
       * [Make your Linkedin Ready](#Make-your-Linkedin-Ready)
-   * [Stage 1 – Create Your Monopoly Visibility](#Stage-1–Create-Your-Monopoly-Visibility)
+   * [Stage1 Create Your Monopoly Visibility](#Stage1-Create-Your-Monopoly-Visibility)
       * [Stage 1 - Linkedin Posts](#Stage-1-Linkedin-Posts)
       * [Stage 1 - HASHNODE- Blogging](#Stage-1-HASHNODE-Blogging)
       * [Stage 1 - Linkedin Article](#Stage-1-Linkedin-Article)
@@ -178,7 +178,7 @@ Make your Linkedin Ready
 
 
 
-Stage 1 – Create Your Monopoly Visibility
+Stage1 Create Your Monopoly Visibility
 =====
 
 
