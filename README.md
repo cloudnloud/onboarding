@@ -303,7 +303,7 @@ Stage2 You reach Worldwide
 
 Stage2 Video Creation
 -----------
-
+- Download snagi from this link - https://drive.google.com/drive/folders/1IWsAzUieCUPt6dJymnO3LAAWr3H4VyEN?usp=sharing  ** request the access.We will grant it for you**
 - Is snagit software installed?
 - How to create Video
 - How to submit the video after its created?
