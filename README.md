@@ -19,7 +19,7 @@ Table of contents
    * [Pre-requisites](#pre-requisites)
       * [Environment Needed](#Environment-Needed)
       * [Login to be created](#Login-to-be-created)
-      * [Canva – Poster Creation](#Canva–Poster-Creation)
+      * [Canva Poster Creation](#Canva–Poster-Creation)
       * [Make your Linkedin Ready](#Make-your-Linkedin-Ready)
    * [Stage 1 – Create Your Monopoly Visibility](#Stage-1–Create-Your-Monopoly-Visibility)
       * [Stage 1 - Linkedin Posts](#Stage-1-Linkedin-Posts)
@@ -154,7 +154,7 @@ Login to be created
 
 
 
-Canva – Poster Creation
+Canva Poster Creation
 -----------
 - https://www.canva.com/design/DAFJqyV4ITs/m6eoor8YXFkgxiQP-UBfPQ/edit?utm_content=DAFJqyV4ITs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 - Always before use your pics in Canva first remove the background in your pic using remove.bg website.
