@@ -192,7 +192,7 @@ Stage1 Linkedin Posts
 - How to write blog in blog.cloudnloud.com
 - How to tag people
 - How to use HashTags
-- Understand 7linux types of LinkedIn posts and how to post it.
+- Understand 7 linux types of LinkedIn posts and how to post it.
 - Tag cloudnloud community wherever is possible.
 - Daily need to be active in linkedin from any learned linkedin post types
 - Tag cloudnloud community where ever is possible
