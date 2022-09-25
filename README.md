@@ -95,6 +95,8 @@ LEARN EARN and CONTRIBUTE for SOCIAL CAUSE
 
 XXXXXXXXXXXXXXXXXXXXXXX
 
+**Watch Video** - [About Cloudnloud Tech Community](https://www.youtube.com/watch?v=4aogkm5jIO0)
+
 
 Cloudnloud Tech Community Stages
 =====
@@ -110,7 +112,7 @@ Note :
 - When you complete Stage 1 and Stage 2 you will gather excellent visibility and high compensation. 
 - Stage 3 onwards, as you start earning additional income you are bound to contribute 10%[From additional income]to the cancer children community 
 
-
+**Watch Video** - [Cloudnloud Tech Community Stages](https://www.youtube.com/watch?v=4aogkm5jIO0)
 
 Career Discussion With Vijay
 =====
@@ -118,7 +120,7 @@ Career Discussion With Vijay
 - You list what you want to be in next 10 years
 - Arrange call with Vijayabalan Cloudnloud and understand what you want in to the project ?
 
-
+**Watch Video** - [Career Discussion With Vijay](https://www.youtube.com/watch?v=4aogkm5jIO0)
 
 Pre-requisites
 =====
@@ -137,6 +139,7 @@ Environment Needed
 - Download anydesk remote utility [https://anydesk.com/en/downloads/thank-you?dv=win_exe].
 - Open anydesk.exe and tell 9 digit number incase any issues to cloudnloud team
 
+**Watch Video** - [Environment Needed](https://www.youtube.com/watch?v=4aogkm5jIO0)
 
 Login to be created
 -----------
@@ -150,7 +153,7 @@ Login to be created
 
 - Note : After understand your career path, then learn below and project yourself. Cloudnloud Tech Commnity will keep support you
 
-
+**Watch Video** - [Login to be created](https://www.youtube.com/watch?v=4aogkm5jIO0)
 
 Poster Creation
 -----------
@@ -162,6 +165,7 @@ Poster Creation
 - create YouTube poster using Canva
 - create twitter poster using Canva
 
+**Watch Video** - [Poster Creation](https://www.youtube.com/watch?v=4aogkm5jIO0)
 
 Make your Linkedin Ready
 -----------
@@ -173,7 +177,7 @@ Make your Linkedin Ready
 - Once integrated cloudnloud twitter ..go to your LinkedIn home and change the post setting visibility that LinkedIn + twitter
 - After creator mode enabled, in your profile add this url https://www.youtube.com/c/CloudnLoud?sub_confirmation=1
 
-
+**Watch Video** - [Make your Linkedin Ready](https://www.youtube.com/watch?v=4aogkm5jIO0)
 
 
 Stage1 Create Your Monopoly Visibility
