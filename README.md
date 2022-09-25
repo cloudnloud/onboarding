@@ -156,6 +156,7 @@ Login to be created
 
 Canva Poster Creation
 -----------
+
 - https://www.canva.com/design/DAFJqyV4ITs/m6eoor8YXFkgxiQP-UBfPQ/edit?utm_content=DAFJqyV4ITs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 - Always before use your pics in Canva first remove the background in your pic using remove.bg website.
 - create the hashnode.com blog tittle poster
