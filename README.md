@@ -22,14 +22,14 @@ Table of contents
       * [Poster Creation](#Poster-Creation)
       * [Make your Linkedin Ready](#Make-your-Linkedin-Ready)
    * [Stage1 Create Your Monopoly Visibility](#Stage1-Create-Your-Monopoly-Visibility)
-      * [Stage 1 - Linkedin Posts](#Stage-1-Linkedin-Posts)
-      * [Stage 1 - HASHNODE- Blogging](#Stage-1-HASHNODE-Blogging)
-      * [Stage 1 - Linkedin Article](#Stage-1-Linkedin-Article)
-   * [Stage 2 – You reach Worldwide](#Stage-2–You-reach-Worldwide)
-      * [Stage 2 – Video Creation](#Stage-2–Video-Creation)
-      * [Stage 2 – Meetup - Online](#Stage-2–Meetup-Online)
-      * [Stage 2 – Meetup - Physical](#Stage-2–Meetup-Physical)   
-   * [Stage 3 – Ambassador Programs and International Conferences](#Stage-3–Ambassador-Programs-and-International-Conferences)
+      * [Stage1 Linkedin Posts](#Stage1-Linkedin-Posts)
+      * [Stage1 HASHNODE Blogging](#Stage1-HASHNODE-Blogging)
+      * [Stage1 Linkedin Article](#Stage1-Linkedin-Article)
+   * [Stage2 You reach Worldwide](#Stage2–You-reach-Worldwide)
+      * [Stage2 Video Creation](#Stage2–Video-Creation)
+      * [Stage2 Meetup Online](#Stage2–Meetup-Online)
+      * [Stage2 Meetup Physical](#Stage2–Meetup-Physical)   
+   * [Stage3 Ambassador Programs and International Conferences](#Stage3-Ambassador-Programs-and-International-Conferences)
 
 <!--te-->
 
@@ -183,7 +183,7 @@ Stage1 Create Your Monopoly Visibility
 
 
 
-Stage 1 - Linkedin Posts
+Stage1 Linkedin Posts
 -----------
 
 - How to create linkedin posts
@@ -259,7 +259,7 @@ Stage 1 - Linkedin Posts - Stages
 - example - https://www.linkedin.com/feed/update/urn:li:activity:6975004440235814912/
 
 
-Stage 1 - HASHNODE- Blogging
+Stage1 HASHNODE Blogging
 -----------
 
 - Make sure you logged in hashnode using the right credentials
@@ -271,19 +271,19 @@ Stage 1 - HASHNODE- Blogging
 
 
 
-Stage 1 - Linkedin Article
+Stage1 Linkedin Article
 -----------
 
 - How to write article in LinkedIn?
 
 
 
-Stage 2 – You reach Worldwide
+Stage2 You reach Worldwide
 =====
 
 
 
-Stage 2 – Video Creation
+Stage2 Video Creation
 -----------
 
 - Is snagit software installed?
@@ -301,7 +301,7 @@ Stage 2 – Video Creation
 - After 1 or 2 days you even create same blog same poster same content in LinkedIn as an article,dev.to,opensource.com,techgig.com etc....
 
 
-Stage 2 – Meetup - Online
+Stage2 Meetup Online
 -----------
 
 - How to do online meetup?
@@ -309,7 +309,7 @@ Stage 2 – Meetup - Online
 
 
 
-Stage 2 – Meetup - Physical
+Stage2 Meetup Physical
 -----------
 
 - How to do Physical meetup?
@@ -317,6 +317,6 @@ Stage 2 – Meetup - Physical
 
 
 
-Stage 3 – Ambassador Programs and International Conferences
+Stage3 Ambassador Programs and International Conferences
 =====
 XXXXXXXXXXXXXXXXXXXXXXX
