@@ -49,54 +49,54 @@ Cloudnloud Tech Community was incubated to share technology and extend hands for
 
 Officially registered as Pvt Ltd on Jan-2015, the community runs with a motto to help cancer children from the revenue generated from the events/courses/programs organized. Today Cloudnloud is marching with pride in being a torch in the lives of 7000 plus cancer children survivors
 
+Vision Statement
+=====
 
-Why we are gathered
------
 
 XXXXXXXXXXXXXXXXXXXXXXX
 
-Why projection is needed
------------
+Community and it’s GOAL
+=====
+
 
 XXXXXXXXXXXXXXXXXXXXXXX
 
-What is the advantages if you project yourself
------------
+Visibility and Advantages
+=====
+
 
 XXXXXXXXXXXXXXXXXXXXXXX
 
-What is the advantages’ if you write a blogging
------------
+Blogging and Advantages
+=====
+
 
 XXXXXXXXXXXXXXXXXXXXXXX
 
-What is the advantage if you present via live stream across world
------------
+Online Streaming and Advantages
+=====
+
 
 XXXXXXXXXXXXXXXXXXXXXXX
 
-What is the advantage if you present physical technical meetups
------------
+In person Meetup’s and Advantages
+=====
+
 
 XXXXXXXXXXXXXXXXXXXXXXX
 
+IT Pathway
+=====
 
-What is the normal IT path
------------
 
 XXXXXXXXXXXXXXXXXXXXXXX
 
+LEARN + EARN & CONTRIBUTE for SOCIAL CAUSE
+=====
 
-What if you create visibility and via visibility what you can get easily
------------
 
 XXXXXXXXXXXXXXXXXXXXXXX
 
-
-Along with your growth what is the contribution you need to give back to the society via Cloudnloud Tech Community
------------
-
-XXXXXXXXXXXXXXXXXXXXXXX
 
 Cloudnloud Tech Community Stages
 =====
@@ -156,7 +156,7 @@ Login Need to be created
 
 Canva – Poster Creation
 -----------
-
+- https://www.canva.com/design/DAFJqyV4ITs/m6eoor8YXFkgxiQP-UBfPQ/edit?utm_content=DAFJqyV4ITs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 - Always before use your pics in Canva first remove the background in your pic using remove.bg website.
 - create the hashnode.com blog tittle poster
 - create LinkedIn poster using Canva
@@ -179,7 +179,7 @@ Make your Linkedin Ready
 
 Stage 1 – Create Your Monopoly Visibility
 =====
-XXXXXXXXXXXXXXXXXXXXXXX
+
 
 
 Stage 1 - Linkedin Posts
@@ -246,7 +246,7 @@ Stage 1 - Linkedin Posts - Stages
 
 - Note 1: while participating in comments section.only tag community if you think it is going to add value...so in one effort you are bringing many channel to look at you.
 
-- example - https://www.linkedin.com/feed/update/urn:li:activity:6975771679830523904/
+- example - https://www.linkedin.com/posts/suniel-shetty_careerswitch-transitions-activity-6977949560518160384-lQsp/
 
 # Linkedin Post Type 7
 
