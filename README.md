@@ -34,10 +34,6 @@ Table of contents
 <!--te-->
 
 
-What is the normal IT path?
-What if you create visibility and via visibility what you can get easily?
-Along with your growth what is the contribution you need to give back to the society via Cloudnloud Tech Community?
-
 Introduction
 ============
 
@@ -48,6 +44,8 @@ About Cloudnloud Tech Community
 Cloudnloud Tech Community was incubated to share technology and extend hands for a loyal cause towards cancer survivor rehabilitation since 2011.This initiative with a notion to save the children diagnosed with cancer by creating a sustainable source of funds to their treatment and rehabilitation. This Tech Community extends the hand to the Global IT aspirants to dream bigger than the monotonous job search system and instead achieve great heights of life by building a name for themselves. Over the years, the community has emerged globally and the members participate in various tech events across the globe as speakers on the trending technologies.
 
 Officially registered as Pvt Ltd on Jan-2015, the community runs with a motto to help cancer children from the revenue generated from the events/courses/programs organized. Today Cloudnloud is marching with pride in being a torch in the lives of 7000 plus cancer children survivors
+
+Watch Video - [About Cloudnloud Tech Community](https://www.youtube.com/watch?v=4aogkm5jIO0)
 
 Vision Statement
 =====
