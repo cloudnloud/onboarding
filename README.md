@@ -18,7 +18,7 @@ Table of contents
    * [Career Discussion With Vijay](#Career-Discussion-With-Vijay)
    * [Pre-requisites](#pre-requisites)
       * [Environment Needed](#Environment-Needed)
-      * [Login Need to be created](#login–need-to-be-created)
+      * [Login to be created](#Login-to-be-created)
       * [Canva – Poster Creation](#Canva–Poster-Creation)
       * [Make your Linkedin Ready](#Make-your-Linkedin-Ready)
    * [Stage 1 – Create Your Monopoly Visibility](#Stage-1–Create-Your-Monopoly-Visibility)
@@ -140,7 +140,7 @@ Environment Needed
 - Open anydesk.exe and tell 9 digit number incase any issues to cloudnloud team
 
 
-Login Need to be created
+Login to be created
 -----------
 
 - What is your LinkedIn username and password?
