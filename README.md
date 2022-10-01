@@ -336,7 +336,8 @@ Stage2 Video Creation
 - Download snagi from this link - https://drive.google.com/drive/folders/1IWsAzUieCUPt6dJymnO3LAAWr3H4VyEN?usp=sharing  ** request the access.We will grant it for you**
 - Is snagit software installed?
 - How to create Video
-- How to submit the video after its created?
+- How to submit the video after its created? 
+- upload your videos here - https://drive.google.com/drive/u/1/folders/1zLnlPG3l2CXl1359uRAI-GvQkqW7yDy_
 - Before start video live stream what need to be done ?
 - After live stream what need to be done?
 - Create video - minimum 8 to 9 video ready
