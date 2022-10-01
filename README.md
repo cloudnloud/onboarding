@@ -174,7 +174,7 @@ Poster Creation
 
 - open the above canva file from above link --> go to file menu --> click make a copy --> save in your name 
 
-- Always before use your pics in Canva first remove the background in your pic using remove.bg website.
+- Always before use your pics in Canva first remove the background in your pic using - https://www.remove.bg/ website.
 - create the hashnode.com blog tittle poster
 - create LinkedIn poster using Canva
 - create YouTube poster using Canva
