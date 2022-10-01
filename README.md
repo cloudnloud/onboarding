@@ -37,7 +37,18 @@ Table of contents
 Introduction
 ============
 
-XXXXXXXXXXXXXXXXXXXXXXX
+We all having many talents.However we are getting right mentorship to show case our talents due many public speaking fear.
+
+Cloudnloud Tech Community is not just going to give learning.Beyond learning I am going to remove all our circle stage fear,Life depression's,mainly confidence on their small skills to survive on their own.
+
+Lastbencher I can able to achieve this much heights.You all are having many talents.
+
+Let's support each other to bring all right people to the stage and create good life for them.
+
+Of course as an team going give back huge social cause to the cancer free world.
+
+Respect everyone around us.
+
 
 About Cloudnloud Tech Community
 =====
