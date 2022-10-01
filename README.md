@@ -269,6 +269,7 @@ Stage 1 - Linkedin Posts - Stages
 
 - Note 1: in this type of post you shouldnt tag community
 - Note 2: hash tags are important
+- https://www.linkedin.com/posts/sunithashenoy_cert-in-directives-are-on-the-right-path-activity-6980372970582011904-K95g?utm_source=share&utm_medium=member_desktop
 
 **Watch Video** - [Linkedin Post Type 5](https://www.youtube.com/watch?v=4aogkm5jIO0)
 
