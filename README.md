@@ -318,10 +318,13 @@ Stage1 HASHNODE Blogging
 
 Stage1 Linkedin Article
 -----------
-
+- you first follow the cloudnlpoud tech community page
+- vijaya cloudnloud will give the page access
 - How to write article in LinkedIn?
 
 **Watch Video** - [Stage1 Linkedin Article](https://www.youtube.com/watch?v=4aogkm5jIO0)
+
+
 
 Stage2 You reach Worldwide
 =====
