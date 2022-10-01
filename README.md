@@ -249,6 +249,7 @@ Stage 1 - Linkedin Posts - Stages
 
 - Note 1: in this type of post you dont  tag community
 - Note 2: hash tags not needed here
+- https://www.linkedin.com/feed/update/urn:li:activity:6981857201464172544/
 
 **Watch Video** - [Linkedin Post Type 3](https://www.youtube.com/watch?v=4aogkm5jIO0)
 
