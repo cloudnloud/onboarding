@@ -167,6 +167,19 @@ Login to be created
 
 **Watch Video** - [Login to be created](https://www.youtube.com/watch?v=4aogkm5jIO0)
 
+Make your Linkedin Ready
+-----------
+
+- Profile URL shortening
+- Creator Mode enabling
+- Click creator mode and add 5 important hashtags in your profile
+- Integrate cloudnloud twitter into your LinkedIn
+- Once integrated cloudnloud twitter ..go to your LinkedIn home and change the post setting visibility that LinkedIn + twitter
+- After creator mode enabled, in your profile add this url https://www.youtube.com/c/CloudnLoud?sub_confirmation=1
+
+**Watch Video** - [Make your Linkedin Ready](https://www.youtube.com/watch?v=4aogkm5jIO0)
+
+
 Poster Creation
 -----------
 - logo - PPT - Download - https://github.com/cloudnloud/onboarding/raw/main/logo.pptx
@@ -182,17 +195,7 @@ Poster Creation
 
 **Watch Video** - [Poster Creation](https://www.youtube.com/watch?v=4aogkm5jIO0)
 
-Make your Linkedin Ready
------------
 
-- Profile URL shortening
-- Creator Mode enabling
-- Click creator mode and add 5 important hashtags in your profile
-- Integrate cloudnloud twitter into your LinkedIn
-- Once integrated cloudnloud twitter ..go to your LinkedIn home and change the post setting visibility that LinkedIn + twitter
-- After creator mode enabled, in your profile add this url https://www.youtube.com/c/CloudnLoud?sub_confirmation=1
-
-**Watch Video** - [Make your Linkedin Ready](https://www.youtube.com/watch?v=4aogkm5jIO0)
 
 
 Stage1 Create Your Monopoly Visibility
@@ -284,17 +287,6 @@ Stage 1 - Linkedin Posts - Stages
 
 **Watch Video** - [Linkedin Post Type 6](https://www.youtube.com/watch?v=4aogkm5jIO0)
 
-# Linkedin Post Type 7
-
-- Write a blog and publish it.take that url and create a post with that url
-
-- Note 1: in this type of post you keep tag Cloudnloud Tech Community and tag leaders
-- Note 2: hash tags are important
-
-- example - https://www.linkedin.com/feed/update/urn:li:activity:6975004440235814912/
-
-**Watch Video** - [Linkedin Post Type 7](https://www.youtube.com/watch?v=4aogkm5jIO0)
-
 
 Stage1 HASHNODE Blogging
 -----------
@@ -307,6 +299,21 @@ Stage1 HASHNODE Blogging
 - check Plagiarism using https://www.duplichecker.com/
 
 **Watch Video** - [Stage1 HASHNODE Blogging](https://www.youtube.com/watch?v=4aogkm5jIO0)
+
+
+# Linkedin Post Type 7
+
+- Write a blog and publish it.take that url and create a post with that url
+
+- Note 1: in this type of post you keep tag Cloudnloud Tech Community and tag leaders
+- Note 2: hash tags are important
+
+- example - https://www.linkedin.com/feed/update/urn:li:activity:6975004440235814912/
+
+**Watch Video** - [Linkedin Post Type 7](https://www.youtube.com/watch?v=4aogkm5jIO0)
+
+
+
 
 Stage1 Linkedin Article
 -----------
