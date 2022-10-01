@@ -57,7 +57,7 @@ Cloudnloud Tech Community was incubated to share technology and extend hands for
 Officially registered as Pvt Ltd on Jan-2015, the community runs with a motto to help cancer children from the revenue generated from the events/courses/programs organized. Today Cloudnloud is marching with pride in being a torch in the lives of 7000 plus cancer children survivors
 
 
-Watch Video - [About Cloudnloud Tech Community](https://www.youtube.com/watch?v=4aogkm5jIO0)
+Watch Video - [About Cloudnloud Tech Community](https://youtu.be/ovAX6YqimcM)
 
 Vision Statement
 =====
@@ -107,7 +107,7 @@ LEARN EARN and CONTRIBUTE for SOCIAL CAUSE
 Social Goal: Give Back(Not to the mentorship) to the Society(Child Cancer Survivors) through NGO. Contribute from the community activities to NGO(Not from the Salary)
 
 
-**Watch Video** - [About Cloudnloud Tech Community](https://www.youtube.com/watch?v=4aogkm5jIO0)
+**Watch Video** - [About Cloudnloud Tech Community](https://youtu.be/ovAX6YqimcM)
 
 
 Cloudnloud Tech Community Stages
@@ -125,7 +125,7 @@ Note :
 - When you complete Stage 1 and Stage 2 you will gather excellent visibility and high compensation. 
 - Stage 3 onwards, as you start earning additional income you are bound to contribute 10%[From additional income]to the cancer children community 
 
-**Watch Video** - [Cloudnloud Tech Community Stages](https://www.youtube.com/watch?v=4aogkm5jIO0)
+**Watch Video** - [Cloudnloud Tech Community Stages](https://youtu.be/qm3kblkMYQc)
 
 Career Discussion With Vijay
 =====
@@ -134,7 +134,7 @@ Career Discussion With Vijay
 - Arrange call with **Vijayabalan Cloudnloud** and understand what you want in to the project ?
 
 
-**Watch Video** - [Career Discussion With Vijay](https://www.youtube.com/watch?v=4aogkm5jIO0)
+**Watch Video** - [Career Discussion With Vijay](https://youtu.be/g-yzSXBs3Vs)
 
 Pre-requisites
 =====
@@ -151,7 +151,7 @@ Environment Needed
 - Download anydesk remote utility [https://anydesk.com/en/downloads/thank-you?dv=win_exe].
 - Open anydesk.exe and tell 9 digit number incase any issues to cloudnloud team
 
-**Watch Video** - [Environment Needed](https://www.youtube.com/watch?v=4aogkm5jIO0)
+**Watch Video** - [Environment Needed](https://youtu.be/BCgrZ8OBHKs)
 
 Login to be created
 -----------
@@ -165,7 +165,7 @@ Login to be created
 
 - Note : After understand your career path, then learn below and project yourself. Cloudnloud Tech Commnity will keep support you
 
-**Watch Video** - [Login to be created](https://www.youtube.com/watch?v=4aogkm5jIO0)
+**Watch Video** - [Login to be created](https://youtu.be/4CZsnCgafrA)
 
 Make your Linkedin Ready
 -----------
@@ -177,7 +177,7 @@ Make your Linkedin Ready
 - Once integrated cloudnloud twitter ..go to your LinkedIn home and change the post setting visibility that LinkedIn + twitter
 - After creator mode enabled, in your profile add this url https://www.youtube.com/c/CloudnLoud?sub_confirmation=1
 
-**Watch Video** - [Make your Linkedin Ready](https://www.youtube.com/watch?v=4aogkm5jIO0)
+**Watch Video** - [Make your Linkedin Ready](https://youtu.be/JnC9OScFEJs)
 
 
 Poster Creation
@@ -193,7 +193,7 @@ Poster Creation
 - create YouTube poster using Canva
 - create twitter poster using Canva
 
-**Watch Video** - [Poster Creation](https://www.youtube.com/watch?v=4aogkm5jIO0)
+**Watch Video** - [Poster Creation](https://youtu.be/aJLHXeNtwBg)
 
 
 
@@ -233,7 +233,7 @@ Stage 1 - Linkedin Posts - Stages
 - https://www.linkedin.com/feed/update/urn:li:activity:6964487699898462208/
 - https://www.linkedin.com/feed/update/urn:li:activity:6963448806822563841/
 
-**Watch Video** - [Linkedin Post Type 1](https://www.youtube.com/watch?v=4aogkm5jIO0)
+**Watch Video** - [Linkedin Post Type 1](https://youtu.be/sOl9Ma-7PHo)
 
 # Linkedin Post Type 2
 
@@ -244,7 +244,7 @@ Stage 1 - Linkedin Posts - Stages
 - Note 2: hash tags are important
 - https://www.linkedin.com/posts/srirengaa_ann-felix-activity-6981806933129216000-YOjM?utm_source=share&utm_medium=member_desktop
 
-**Watch Video** - [Linkedin Post Type 2](https://www.youtube.com/watch?v=4aogkm5jIO0)
+**Watch Video** - [Linkedin Post Type 2](https://youtu.be/ZFHkcj1ER-0)
 
 # Linkedin Post Type 3
 
@@ -254,7 +254,7 @@ Stage 1 - Linkedin Posts - Stages
 - Note 2: hash tags not needed here
 - https://www.linkedin.com/feed/update/urn:li:activity:6981857201464172544/
 
-**Watch Video** - [Linkedin Post Type 3](https://www.youtube.com/watch?v=4aogkm5jIO0)
+**Watch Video** - [Linkedin Post Type 3](https://youtu.be/01fXWLW5Jd4)
 
 # Linkedin Post Type 4
 
@@ -264,7 +264,7 @@ Stage 1 - Linkedin Posts - Stages
 - Note 2: hash tags are important
 - https://www.linkedin.com/posts/bharath-kumar-reddy-82bb7420b_basic-shell-scripting-activity-6980803176434204672-UeBu?utm_source=share&utm_medium=member_desktop
 
-**Watch Video** - [Linkedin Post Type 4](https://www.youtube.com/watch?v=4aogkm5jIO0)
+**Watch Video** - [Linkedin Post Type 4](https://youtu.be/3mRH0AdEPDE)
 
 # Linkedin Post Type 5
 
@@ -274,7 +274,7 @@ Stage 1 - Linkedin Posts - Stages
 - Note 2: hash tags are important
 - https://www.linkedin.com/posts/sunithashenoy_cert-in-directives-are-on-the-right-path-activity-6980372970582011904-K95g?utm_source=share&utm_medium=member_desktop
 
-**Watch Video** - [Linkedin Post Type 5](https://www.youtube.com/watch?v=4aogkm5jIO0)
+**Watch Video** - [Linkedin Post Type 5](https://youtu.be/YWXhn8N2OiI)
 
 # Linkedin Post Type 6
 
@@ -285,7 +285,7 @@ Stage 1 - Linkedin Posts - Stages
 
 - example - https://www.linkedin.com/posts/suniel-shetty_careerswitch-transitions-activity-6977949560518160384-lQsp/
 
-**Watch Video** - [Linkedin Post Type 6](https://www.youtube.com/watch?v=4aogkm5jIO0)
+**Watch Video** - [Linkedin Post Type 6](https://youtu.be/QIdrshgnN3s)
 
 
 Stage1 HASHNODE Blogging
@@ -299,7 +299,7 @@ Stage1 HASHNODE Blogging
 - check Plagiarism using https://www.duplichecker.com/
 
 
-**Watch Video** - [Stage1 HASHNODE Blogging](https://www.youtube.com/watch?v=4aogkm5jIO0)
+**Watch Video** - [Stage1 HASHNODE Blogging](https://youtu.be/At0HUC38Am8)
 
 
 # Linkedin Post Type 7
@@ -311,7 +311,7 @@ Stage1 HASHNODE Blogging
 
 - example - https://www.linkedin.com/feed/update/urn:li:activity:6975004440235814912/
 
-**Watch Video** - [Linkedin Post Type 7](https://www.youtube.com/watch?v=4aogkm5jIO0)
+**Watch Video** - [Linkedin Post Type 7](https://youtu.be/At0HUC38Am8)
 
 
 
@@ -322,7 +322,7 @@ Stage1 Linkedin Article
 - vijaya cloudnloud will give the page access
 - How to write article in LinkedIn?
 
-**Watch Video** - [Stage1 Linkedin Article](https://www.youtube.com/watch?v=4aogkm5jIO0)
+**Watch Video** - [Stage1 Linkedin Article](https://youtu.be/bB1k0EbsXNk)
 
 
 
