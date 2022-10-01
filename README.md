@@ -169,7 +169,7 @@ Login to be created
 
 Poster Creation
 -----------
-
+- logo - PPT - Download - https://github.com/cloudnloud/onboarding/raw/main/logo.pptx
 - sample hashnode title poster - https://www.canva.com/design/DAFJqyV4ITs/m6eoor8YXFkgxiQP-UBfPQ/edit?utm_content=DAFJqyV4ITs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 - open the above canva file from above link --> go to file menu --> click make a copy --> save in your name 
