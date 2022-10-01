@@ -298,6 +298,25 @@ Stage1 HASHNODE Blogging
 - in hashnode blog check spelling, grammer and rephrase the words using https://www.reverso.net/spell-checker/english-spelling-grammar/
 - check Plagiarism using https://www.duplichecker.com/
 
+- ### Community and Social Footprints :
+
+- [Chandrasekhar Kesavarapu](https://www.linkedin.com/in/chandrastack/)
+
+- [GitHub](https://github.com/cloudnloud)
+
+- [Twitter](https://twitter.com/cloudnloud)
+
+- [YouTube Cloud DevOps Free Trainings](https://www.youtube.com/c/CloudnLoud)
+
+- [Linkedin Page](https://www.youtube.com/c/CloudnLoud?sub_confirmation=1)
+
+- [Linkedin Group](https://www.linkedin.com/groups/9124202/)
+
+- [Discord Channel](https://discord.gg/vbjRQGVhuF)
+
+- [Dev](https://dev.to/cloudnloud)
+
+
 **Watch Video** - [Stage1 HASHNODE Blogging](https://www.youtube.com/watch?v=4aogkm5jIO0)
 
 
