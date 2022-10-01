@@ -259,6 +259,7 @@ Stage 1 - Linkedin Posts - Stages
 
 - Note 1: in this type of post you keep tag community such that ...key cloudnloud tech community make use of it kinda trend
 - Note 2: hash tags are important
+- https://www.linkedin.com/posts/bharath-kumar-reddy-82bb7420b_basic-shell-scripting-activity-6980803176434204672-UeBu?utm_source=share&utm_medium=member_desktop
 
 **Watch Video** - [Linkedin Post Type 4](https://www.youtube.com/watch?v=4aogkm5jIO0)
 
