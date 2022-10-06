@@ -376,3 +376,13 @@ XXXXXXXXXXXXXXXXXXXXXXX
 
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/4aogkm5jIO0/0.jpg)](https://www.youtube.com/watch?v=4aogkm5jIO0)
+
+
+
+# reference
+
+**Make linkedin post Letters bold** - https://capitalizemytitle.com/bold-text-generator/
+
+
+- check all your blog content towards Plagiarism
+- copy paste in this the https://www.duplichecker.com/ website.check the Plagiarism.If you found Plagiarism..then goto https://www.reverso.net/spell-checker/english-spelling-grammar/ rephrase the words and again check the Plagiarism.
