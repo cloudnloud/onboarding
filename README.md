@@ -314,6 +314,9 @@ Stage1 HASHNODE Blogging
 **Watch Video** - [Linkedin Post Type 7](https://youtu.be/At0HUC38Am8)
 
 
+# what you get benefits from your visbility and your projections
+
+**Watch Video** - [you get good benefits from your visibility](https://youtu.be/hiAmoE-xqEw)
 
 
 Stage1 Linkedin Article
