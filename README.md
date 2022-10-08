@@ -242,7 +242,7 @@ Stage 1 - Linkedin Posts - Stages
 
 - Note 1: in this type of post you keep tag community
 - Note 2: hash tags are important
-- https://www.linkedin.com/posts/srirengaa_ann-felix-activity-6981806933129216000-YOjM?utm_source=share&utm_medium=member_desktop
+- https://www.linkedin.com/feed/update/urn:li:activity:6885591288792522752/
 
 **Watch Video** - [Linkedin Post Type 2](https://youtu.be/ZFHkcj1ER-0)
 
