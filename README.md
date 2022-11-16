@@ -220,7 +220,7 @@ Stage1 Linkedin Posts
 - Write about any technical related
 - Write about any social advice related
 
-**Watch Video** - [Stage1 Linkedin Posts](https://www.youtube.com/watch?v=4aogkm5jIO0)
+**Watch Video** - [Stage1 Linkedin Posts](https://youtu.be/lWvbVNvh4Q4)
 
 
 Stage 1 - Linkedin Posts - Stages
