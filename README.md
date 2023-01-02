@@ -391,4 +391,8 @@ XXXXXXXXXXXXXXXXXXXXXXX
 
 # Technical Meetup - Call For Speakers
 
-- https://forms.gle/WfVtzVgtzHQEZk5i9
+- https://forms.gle/zeGPXosnXjok1PG2A
+
+# Community Contributors Details
+
+- https://forms.gle/ozymFR68ojDhFSoU9
