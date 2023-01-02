@@ -388,3 +388,7 @@ XXXXXXXXXXXXXXXXXXXXXXX
 
 - check all your blog content towards Plagiarism
 - copy paste in this the https://www.duplichecker.com/ website.check the Plagiarism.If you found Plagiarism..then goto https://www.reverso.net/spell-checker/english-spelling-grammar/ rephrase the words and again check the Plagiarism.
+
+# Technical Meetup - Call For Speakers
+
+- https://forms.gle/WfVtzVgtzHQEZk5i9
