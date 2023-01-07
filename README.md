@@ -400,4 +400,8 @@ XXXXXXXXXXXXXXXXXXXXXXX
 
 # video recording background wallpaper
 
--
+- **image**
+- https://github.com/cloudnloud/onboarding/blob/main/Slide1.JPG
+
+- **PPT-you can save as an JPG IMAGE**
+- https://github.com/cloudnloud/onboarding/blob/main/Cloudnloud-background-for-video-recording-Template.pptx
